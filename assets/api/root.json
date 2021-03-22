@@ -1,0 +1,16 @@
+[
+  {
+    "id": 11,
+    "name": "장모종",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 0
+  },
+  {
+    "id": 12,
+    "name": "단모종",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 0
+  }
+]

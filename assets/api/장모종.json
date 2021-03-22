@@ -1,0 +1,16 @@
+[
+  {
+    "id": 31,
+    "name": "장모종-고등어",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 12
+  },
+  {
+    "id": 32,
+    "name": "장모종-삼색",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 12
+  }
+]

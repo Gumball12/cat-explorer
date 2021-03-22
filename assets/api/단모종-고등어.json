@@ -1,0 +1,16 @@
+[
+  {
+    "id": 211,
+    "name": "cat-1",
+    "type": "FILE",
+    "path": "/cat-explorer/assets/image/단모종/단모종-고등어/cat-1.jpg",
+    "parentId": 21
+  },
+  {
+    "id": 212,
+    "name": "cat-2",
+    "type": "FILE",
+    "path": "/cat-explorer/assets/image/단모종/단모종-고등어/cat-2.jpg",
+    "parentId": 21
+  }
+]

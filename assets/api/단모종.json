@@ -1,0 +1,30 @@
+[
+  {
+    "id": 21,
+    "name": "단모종-고등어",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 11
+  },
+  {
+    "id": 22,
+    "name": "단모종-삼색",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 11
+  },
+  {
+    "id": 23,
+    "name": "단모종-치즈",
+    "type": "DIRECTORY",
+    "path": null,
+    "parentId": 11
+  },
+  {
+    "id": 29,
+    "name": "호랑이",
+    "type": "FILE",
+    "path": "/cat-explorer/assets/image/단모종/호랑이.jpg",
+    "parentId": 11
+  }
+]
