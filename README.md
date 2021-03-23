@@ -49,7 +49,7 @@ url base: https://raw.githubusercontent.com/Gumball12
 - `name`: 요소의 이름
 - `type`: 요소의 타입 (`[FILE|DIRECTORY]`)
 - `path`: 요소의 경로 (`type`이 `FILE`일 경우에만 존재, 그 외에는 `null`)
-- `parentId`: 상위 요소의 `id` (`type`이 `DIRECTORY`일 경우에만 존재, 그 외에는 `null`)
+- `parentId`: 상위 요소의 `id` (루트 디렉터리가 아니면서 `type`이 `DIRECTORY`일 경우에만 존재, 그 외에는 `null`)
 
 ## LICENSE
 
