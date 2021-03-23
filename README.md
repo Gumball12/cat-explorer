@@ -1,10 +1,11 @@
 # Cat Explorer
 
-![thumbnail](#)
+![thumbnail](./thumbnail.png)
 
 Vanilla JS만을 이용해 고양이 사진 탐색기를 구현하기
 
-- [Demo](https://cat-explorer.shj.rip)
+- [Demo](https://Gumball12.github.io/cat-explorer)
+- [Requirements](https://github.com/Gumball12/cat-explorer/issues/1)
 
 ## Installation
 
@@ -26,8 +27,6 @@ live-server # http://localhost:8080/
 - [./assets/api/단모종-고등어.json](./assets/api/단모종-고등어.json): `단모종-고등어` 디렉터리 탐색 결과 반환
 
 #### 파일
-
-url base: https://raw.githubusercontent.com/Gumball12
 
 - [./assets/image/장모종/장모종-고등어/cat-1.jpg](./assets/image/장모종/장모종-고등어/cat-1.jpg): `장모종/장모종-고등어` 디렉터리에 존재하는 `cat-1.jpg` 이미지 파일 반환
 
