@@ -55,3 +55,4 @@ url base: https://raw.githubusercontent.com/Gumball12
 
 - [GPLv3](./LICENSE)
 - 이미지는 [Pexels](https://www.pexels.com/) 이용 ([Pexels License](https://www.pexels.com/license/))
+- 아이콘은 [Material Icons](https://material.io/resources/icons) 이용 ([Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html))
